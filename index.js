@@ -14,15 +14,15 @@ switch (teste) {
 
    case xp >=1001 && xp<=2000:
      console.log(msg1 + nome + msg2 + "bronze");
-    break;
+     break;
 
    case xp >=2001 && xp<=5000:
      console.log(msg1 + nome + msg2 + "prata")
      break;
 
    case xp >=5001 && xp<=7000:
-    console.log(msg1 + nome + msg2 + "ouro")
-    break;
+     console.log(msg1 + nome + msg2 + "ouro")
+     break;
 
    case xp>=7001 && xp<=8000:
      console.log(msg1 + nome + msg2 + "platina")
@@ -30,7 +30,7 @@ switch (teste) {
 
    case xp>=8001 && xp<=9000:
      console.log(msg1 + nome + msg2 + "ascendente")
-    break;
+     break;
 
    case xp>=9001 && xp<=10000:
      console.log(msg1 + nome + msg2 + "imortal")
