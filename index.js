@@ -1,4 +1,4 @@
-// Desafio Classificado Heroi 
+// Desafio Classificador Heroi 
 
 let nome = "Black Panther"
 let teste= true
